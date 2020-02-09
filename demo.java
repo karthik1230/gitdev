@@ -1,3 +1,8 @@
+class ample
+{
+welcome :)
+}
+
 Class Demo
 {
 	void get()
