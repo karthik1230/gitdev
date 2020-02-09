@@ -20,3 +20,7 @@ kjksajd
 as
 hdgajdghadha
 jhjsjadhjsahdjahdjsahj
+
+void {
+}
+
