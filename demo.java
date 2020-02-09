@@ -9,4 +9,14 @@ Class Demo
 		void put()
 		void set()
 }
+class
+{
+	hello 123
+}
 
+cjhdjhdjkda
+
+kjksajd
+as
+hdgajdghadha
+jhjsjadhjsahdjahdjsahj
